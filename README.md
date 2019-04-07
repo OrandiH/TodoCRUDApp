@@ -1,1 +1,1 @@
-## A README FILE
+## This is just a simple app to learn how to use MongoDB to store data received from the user via a front end app
